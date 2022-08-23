@@ -1,6 +1,6 @@
 variable "namespace_name" {
   type        = string
-  default     = null
+  default     = ""
   description = "Create new Optional namespace for GKE"
 }
 
